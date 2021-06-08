@@ -1,0 +1,23 @@
+.menu{
+list-style: none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: blueviolet
+}
+#SEC1 {
+text-align: center;
+background-color: aqua;
+text-decoration-color: deeppink;
+}
+
+#ABOUT {
+text-align: center;
+background-color: aquamarine;
+text-decoration-color: blueviolet;
+}
+html{
+scroll-behavior: smooth
+}
